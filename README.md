@@ -1,5 +1,7 @@
 # ⚙️ Installation & Setup
 
+requires Node.js version 22.11 or later
+
 ### 1. Clone the repository
 
 ```
