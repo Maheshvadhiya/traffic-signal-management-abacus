@@ -17,6 +17,8 @@ cd traffic-signal-management-abacus
 ### 3. Install dependencies
 
 ```
+requires Node.js version 22.11 or later
+
 npm install
 ```
 
